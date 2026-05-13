@@ -1,0 +1,7 @@
+[
+  { "name": "React", "level": 95, "color": "bg-primary" },
+  { "name": "TypeScript", "level": 90, "color": "bg-secondary" },
+  { "name": "Tailwind CSS", "level": 98, "color": "bg-tertiary" },
+  { "name": "Framer Motion", "level": 85, "color": "bg-primary" },
+  { "name": "Three.js", "level": 70, "color": "bg-secondary" }
+]

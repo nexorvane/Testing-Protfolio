@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Lumina Dashboard",
+    "description": "A glassmorphic data visualization platform for creative agencies.",
+    "longDescription": "Lumina Dashboard is a high-performance analytics platform designed for creative professionals. It features real-time data streaming, customizable widgets, and a beautiful glassmorphic interface that reduces cognitive load while providing deep insights into project performance.",
+    "tech": ["React", "D3.js", "Tailwind", "Firebase"],
+    "features": [
+      "Real-time data synchronization",
+      "Interactive D3.js visualizations",
+      "Customizable layout system",
+      "Collaborative project tracking"
+    ],
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800&h=600",
+    "link": "#"
+  },
+  {
+    "id": "2",
+    "title": "Clay Studio",
+    "description": "A collaborative 3D modeling tool for web designers.",
+    "longDescription": "Clay Studio brings the power of 3D modeling to the browser with a simplified, designer-friendly interface. Built with Three.js and React, it allows teams to collaborate on 3D assets in real-time, exporting directly to web-optimized formats.",
+    "tech": ["Three.js", "Framer Motion", "React", "WebSockets"],
+    "features": [
+      "Real-time multiplayer editing",
+      "Intuitive clay-style sculpting",
+      "Direct GLTF/OBJ export",
+      "Automatic LOD optimization"
+    ],
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=800&h=600",
+    "link": "#"
+  },
+  {
+    "id": "3",
+    "title": "Neon Nexus",
+    "description": "Real-time crypto tracker with immersive dark mode aesthetics.",
+    "longDescription": "Neon Nexus is a premier cryptocurrency monitoring suite that prioritizes aesthetic immersion without sacrificing technical depth. It tracks over 5,000 assets with millisecond latency, featuring advanced charting and portfolio management tools.",
+    "tech": ["Next.js", "Socket.io", "Chart.js", "Ethers.js"],
+    "features": [
+      "Millisecond price updates",
+      "Advanced candle-stick charting",
+      "Multi-wallet integration",
+      "Custom price alert system"
+    ],
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?auto=format&fit=crop&q=80&w=800&h=600",
+    "link": "#"
+  }
+]
